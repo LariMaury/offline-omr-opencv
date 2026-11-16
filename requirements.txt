@@ -1,0 +1,7 @@
+# Runtime dependencies validated with Python 3.14.
+numpy==2.5.1
+opencv-python==5.0.0.93
+Pillow==12.3.0
+
+# Test dependency.
+pytest==9.2.0
