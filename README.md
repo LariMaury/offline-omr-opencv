@@ -2,7 +2,7 @@
 
 Portfólio técnico de um sistema desktop para processar cartões-resposta digitalizados, reconhecer marcações, corrigir avaliações em lote e produzir indicadores e relatórios localmente.
 
-Esta versão pública planejada é deliberadamente seletiva. Ela documenta a arquitetura e os algoritmos mais relevantes do projeto original, sem publicar a aplicação completa, dados escolares, configurações reais, mecanismos de licenciamento ou integrações privadas.
+Esta versão pública é deliberadamente seletiva. Ela documenta a arquitetura e os algoritmos mais relevantes do projeto original, sem publicar a aplicação completa, dados escolares, configurações reais, mecanismos de licenciamento ou integrações privadas.
 
 ## Problema
 
