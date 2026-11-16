@@ -162,7 +162,7 @@ Detalhes adicionais estão em [docs/limitations.md](docs/limitations.md).
 
 ## Escopo da versão pública
 
-O conteúdo preparado para eventual publicação contém somente algoritmos selecionados, documentação e exemplos sintéticos. Permanecem fora do repositório:
+O conteúdo preparado para publicação contém somente algoritmos selecionados, documentação e exemplos sintéticos. Permanecem fora do repositório:
 
 - aplicação desktop completa;
 - banco de dados e listas de estudantes;
